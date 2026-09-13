@@ -1,0 +1,4 @@
+TransactionID,CustomerID,TransactionAmount,TransactionHour,Account_Frequency,Device_Frequency,IP_Frequency,Merchant_Frequency,LocationDistanceKM
+1,101,23.50,14,5,2,3,1,0.5
+2,102,1200.00,2,1,1,1,1,15.2
+...
